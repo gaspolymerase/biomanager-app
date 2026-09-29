@@ -1,9 +1,4 @@
-# BioManager
+# BioManager has moved
 
-> A lab database for animal colonies (mice, zebrafish, flies, worms, any organism), plasmids, samples, orders, reagents, antibodies, viruses, a calendar and a notebook. Desktop apps for macOS, Windows and Linux; a Docker server for a whole lab; an Android app and iPhone home-screen web app for the server.
-
-- [Deploying a lab server, for AI assistants](https://gaspolymerase.github.io/biomanager-app/deploy-with-ai.md): facts, questions to ask, exact commands, checks and safety rules
-- [Run it for your lab](https://gaspolymerase.github.io/biomanager-app/server.html): every hosting option with costs and steps
-- [User guide](https://gaspolymerase.github.io/biomanager-app/guide.html): every function, and a path for people coming from Excel
-- [The API](https://gaspolymerase.github.io/biomanager-app/guide.html#api): JSON at /api/v1 on a lab's BioManager, with a personal token (Authorization: Bearer bmt_…, from Settings → API tokens); the reference is /api and the spec /api/v1/openapi.json on that server
-- [Downloads](https://github.com/gaspolymerase/biomanager-app/releases/latest): desktop apps, Android app, and biomanager-server.tar.gz
+This file is now at https://gaspolymerase.github.io/biomanager/llms.txt
+Read that address instead; nothing here is kept up to date.
